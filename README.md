@@ -7,7 +7,7 @@ The PHONEHOME project is a web application designed to improve communication and
 PhoneHome is already deployed and accessible online. 
 
 ## Usage
-Upon launching PhoneHome, simply visit the TechTrack website through your web browser.
+Upon launching PhoneHome, simply visit the  website through your web browser.
 Explore the homepage to gain an understanding of PHONEHOME's mission and vision.
 Navigate to the "About Us" section to delve deeper into the platform's description and objectives.
 Stay updated on developments and additional features as we continue to enhance PHONEHOME.
@@ -31,3 +31,6 @@ By sharing my journey and the technical complexities of the project, I aim to co
 
 ## Licensing
 This project is licensed under the terms of the [LICENSE.txt](LICENSE.txt) file.
+
+## Related project
+We have series of related projects. For example Viber, SmileVoice.
